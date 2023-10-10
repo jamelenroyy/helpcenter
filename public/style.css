@@ -1,0 +1,28 @@
+<style>
+  html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+  .button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #4267B2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+</style>
